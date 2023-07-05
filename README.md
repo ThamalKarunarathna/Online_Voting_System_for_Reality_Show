@@ -17,7 +17,7 @@
     </thead>
     <tbody>
       <tr>
-        <td>Group Member</td>
+        <td>Group Leader</td>
         <td>IT21189876</td>
         <td>Karunarathna H.B.T.N</td>
         <td>ThamalKarunarathna</td>
@@ -26,7 +26,7 @@
         <td>Group Member</td>
         <td>IT21377358</td>
         <td>Hanshani S.G.H.S</td>
-        <td>ThamalKarunarathna</td>
+        <td>ShashiniH</td>
       </tr>
       <tr>
         <td>Group Member</td>
