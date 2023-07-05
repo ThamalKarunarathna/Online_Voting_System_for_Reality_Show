@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Simple HTML Table</title>
+
 </head>
 <body>
   <table>
